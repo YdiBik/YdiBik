@@ -78,4 +78,4 @@ I Occasionally contribute to various tricky open source repositories that are en
 </tr>
 </table>
 
-<sub>[all pull requests →](https://github.com/search?q=author%3AAdamerGitHub&type=pullrequests)</sub>
+<sub>[all pull requests →](https://github.com/search?q=author%3AYdiBik&type=pullrequests)</sub>
